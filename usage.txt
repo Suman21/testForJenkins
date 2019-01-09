@@ -1,0 +1,25 @@
+Step 1: Login using credentials
+
+Step 2: Give inputs in Crude Compositions card
+
+			a.) You can select crude name by double clicking the crude names in Historical Crude Runs table
+			
+			b.) Make sure that sum of % value of 5 crudes is not greater than 100% or not less than 95%
+			
+Step 3: After that click get cot button and you will see the predictions card and Historical Runs card
+
+Step 4: Click button under Program id column in Historical Runs card and you will redirect to another new page 
+	
+			a.) In new page you will see result, Suggested parameters, six different graphs and Historical Records table
+
+Step 5: In Historical Records table if you click in column name then you will see a graph of actual, predictions and error for selecting specific tag and 
+		also if you click show then you will see a graph of all data for selecting specific tag
+		
+			a.) If you click next button then you will get next 50 data in the table and for back button you will get previous 50 data in the table.
+			
+Step 6: In the sidebar there is a filter tag, here if you click that tag you will see column names of Historical Records table and again if you click that
+		column name then two input fields will come and here by giving inputs you can manipulate the range of data.
+		To show your changes you have to click 'Filter' button.
+		After that you will see a column tag before filter button here you can select specific column to show in the table.
+		To show your changes you have to click 'Display' button.
+		
